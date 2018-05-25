@@ -1,0 +1,2 @@
+# Jeux-Des-Allumettes
+Ce jeu se joue à deux. Vous avez un nombre n d'allumettes, au début du jeu tous les emplacements sont pris. A tour de rôle, chacun des deux joueurs enlevés entre 1 et 3 allumettes selon ce qu'il souhaite situant dans des cases consécutives. Le but du jeu est de faire retirer la dernière allumette par son adversaire. Autrement dit, le joueur qui prend la dernière allumette perd.
